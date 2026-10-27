@@ -1,0 +1,5 @@
+credentials.auto.tfvars
+*.pem
+*.tfstate
+*.tfstate.*
+.terraform/
